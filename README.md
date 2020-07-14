@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![Giuliano De Luca](GitHubArt.png)
 ### I'm Giuliano an independent technical architect Microsoft Office Development MVP 🏆, passionate and lover of my job, I'm specialist in Microsoft technologies like Microsoft 365 and Azure.
-### During my career I achieved several Microsoft certifications I'm also a blogger, YouTuber and international speaker 🎙.
+### During my career I achieved several Microsoft certifications I'm also a blogger, YouTuber and international speaker 🎙
 
-- 🎥🎙 https://www.youtube.com/GiulianoDeLuca
+- 🎥 https://www.youtube.com/GiulianoDeLuca
 - 💼 https://twitter.com/DeLucaGiulian
 - 🐦 https://www.linkedin.com/in/delucagiuliano/
 - 💻 https://delucagiuliano.com
