@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Giuliano De Luca](https://github.com/giuleon/giuleon/blob/master/GitHubArt.png)
+![Giuliano De Luca](https://github.com/giuleon/giuleon/blob/master/LinkedInArt1.png)
 ### I'm Giuliano an independent technical architect Microsoft Office Development MVP 🏆, passionate and lover of my job, I'm specialist in Microsoft technologies like Microsoft 365 and Azure.
 ### During my career I achieved several Microsoft certifications I'm also a blogger, YouTuber and international speaker 🎙
 
